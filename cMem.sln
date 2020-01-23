@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cMem", "cMem\cMem.vbproj", "{F0B69A8A-E961-4F4F-A5F3-2165F83378AB}"
 EndProject
 Global
