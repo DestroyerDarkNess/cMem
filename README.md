@@ -4,7 +4,7 @@
 
 Library written by iam_clint | E-mail : clint.ban@gmail.com , very useful for memory management / Injection, among other things ...
 
-https://github.com/devoyster/IntXLib
+Use the following library: https://github.com/devoyster/IntXLib
 
 Sample source using it . 
 
